@@ -1,0 +1,712 @@
+Termination Report
+Period: 31-DEC-13 thru 07-DEC-14
+TEST or PROD: PROD Run Type: N
+Run Date: 12/08/14 a.m.
+Database: PROD
+----------------------------------------------------------------------
+,
+CWID: 10974994
+UserID: ZGARCIA2
+Name: GARCIA,ZEYDA ARACELY
+Primary Eclass: Student Hourly (BB/SD)
+Department: ACADEMIC SUPPORT SERVICES
+Title: SDS - NOTETAKER
+Termination Date: 12/05/2014
+Begin/End: 12/06/2013 - 12/20/2013
+PICT/BCAT/LCAT: SH / SD / SF
+Supervisor: tbd
+Supervisor Name: tbd
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 10974994
+UserID: ZGARCIA2
+Name: GARCIA,ZEYDA ARACELY
+Primary Eclass: Student Hourly (BB/SD)
+Department: ACADEMIC SUPPORT SERVICES
+Title: SOM TA/TAKAHASHI
+Termination Date: 12/05/2014
+Begin/End: 08/21/2013 - 09/05/2013
+PICT/BCAT/LCAT: SH / SD / SF
+Supervisor: tbd
+Supervisor Name: tbd
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 10974994
+UserID: ZGARCIA2
+Name: GARCIA,ZEYDA ARACELY
+Primary Eclass: Student Hourly (BB/SD)
+Department: ACADEMIC SUPPORT SERVICES
+Title: SOM TA/TAKAHASHI
+Termination Date: 12/05/2014
+Begin/End: 08/21/2013 - 01/21/2014
+PICT/BCAT/LCAT: SH / SD / SF
+Supervisor: tbd
+Supervisor Name: tbd
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20161773
+UserID: JBFLANNERY
+Name: FLANNERY,JENNIFER B
+Primary Eclass: Student Stipend (CC/SD)
+Department: EDUCATION                         
+Title: SCHOOL OF EDUCATION
+Termination Date: 12/05/2014
+Begin/End: 01/21/2014 - 02/05/2014
+PICT/BCAT/LCAT: SH / SD / NA
+Supervisor: tbd
+Supervisor Name: tbd
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20191240
+UserID: MZHOU6
+Name: ZHOU,MIAO
+Primary Eclass: Student Hourly (BB/SD)
+Department: SCHOOL OF MANAGEMENT
+Title: SOM TA/CHEN
+Termination Date: 12/05/2014
+Begin/End: 08/21/2013 - 01/21/2014
+PICT/BCAT/LCAT: SH / SD / SF
+Supervisor: chenr
+Supervisor Name: CHEN,ROGER (RONGXIN)
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20191240
+UserID: MZHOU6
+Name: ZHOU,MIAO
+Primary Eclass: Student Hourly (BB/SD)
+Department: SCHOOL OF MANAGEMENT
+Title: SOM SA2/KWONG
+Termination Date: 12/05/2014
+Begin/End: 10/21/2012 - 01/06/2013
+PICT/BCAT/LCAT: SH / SD / SF
+Supervisor: tbd
+Supervisor Name: tbd
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20203180
+UserID: ENCRUZ
+Name: CRUZ,ELIZABETH NATHALIE
+Primary Eclass: Student Work Study (BC/SD)
+Department: RESIDENCE LIFE
+Title: LM CA-NOM
+Termination Date: 12/05/2014
+Begin/End: 08/08/2012 - 08/20/2013
+PICT/BCAT/LCAT: SH / SD / SF
+Supervisor: tbd
+Supervisor Name: tbd
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20203180
+UserID: ENCRUZ
+Name: CRUZ,ELIZABETH NATHALIE
+Primary Eclass: Student Work Study (BC/SD)
+Department: RESIDENCE LIFE
+Title: LM CA-NOM
+Termination Date: 12/05/2014
+Begin/End: 08/21/2012 - 04/20/2014
+PICT/BCAT/LCAT: SH / SD / SF
+Supervisor: tbd
+Supervisor Name: tbd
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20203180
+UserID: ENCRUZ
+Name: CRUZ,ELIZABETH NATHALIE
+Primary Eclass: Student Work Study (BC/SD)
+Department: RESIDENCE LIFE
+Title: LM CA-DAY
+Termination Date: 12/05/2014
+Begin/End: 08/21/2012 - 04/20/2014
+PICT/BCAT/LCAT: SH / SD / SF
+Supervisor: tbd
+Supervisor Name: tbd
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20203180
+UserID: ENCRUZ
+Name: CRUZ,ELIZABETH NATHALIE
+Primary Eclass: Student Work Study (BC/SD)
+Department: RESIDENCE LIFE
+Title: LM CA-DAY
+Termination Date: 12/05/2014
+Begin/End: 08/08/2012 - 08/20/2013
+PICT/BCAT/LCAT: SH / SD / SF
+Supervisor: tbd
+Supervisor Name: tbd
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20218991
+UserID: CESCHWABENLAND
+Name: SCHWABENLAND,CORIE E
+Primary Eclass: Student Hourly (BB/SD)
+Department: PSYCHOLOGY
+Title: PSYCH - TA MANUEL
+Termination Date: 12/05/2014
+Begin/End: 08/21/2013 - 01/20/2014
+PICT/BCAT/LCAT: SH / SD / SF
+Supervisor: gmanuel
+Supervisor Name: MANUEL,GERDENIO MEDARD
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20225038
+UserID: CECALLES
+Name: CALLES,CESAR EDUARDO
+Primary Eclass: Student Work Study (BC/SD)
+Department: ATHLETICS
+Title: BAND STUDENT MENTOR
+Termination Date: 12/05/2014
+Begin/End: 09/06/2012 - 08/20/2013
+PICT/BCAT/LCAT: SH / SD / SF
+Supervisor: tbd
+Supervisor Name: tbd
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20225038
+UserID: CECALLES
+Name: CALLES,CESAR EDUARDO
+Primary Eclass: Student Work Study (BC/SD)
+Department: ATHLETICS
+Title: EVENT MANAGER - ATHLETICS
+Termination Date: 12/05/2014
+Begin/End: 10/16/2012 - 05/20/2014
+PICT/BCAT/LCAT: SH / SD / SF
+Supervisor: ctbrown
+Supervisor Name: BROWN,CARSON T
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20225038
+UserID: CECALLES
+Name: CALLES,CESAR EDUARDO
+Primary Eclass: Student Work Study (BC/SD)
+Department: ATHLETICS
+Title: ASTRO TA
+Termination Date: 12/05/2014
+Begin/End: 04/01/2013 - 05/20/2013
+PICT/BCAT/LCAT: SH / SD / SF
+Supervisor: almachi
+Supervisor Name: MACHI,AMANDA L
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20225629
+UserID: SLMEJIA
+Name: MEJIA,SANDRA LUZ
+Primary Eclass: Student Stipend (CC/SD)
+Department: SCHOOL OF MANAGEMENT
+Title: SOM SA_1T/HUDSON
+Termination Date: 12/05/2014
+Begin/End: 11/06/2013 - 11/20/2013
+PICT/BCAT/LCAT: SH / SD / NA
+Supervisor: tbd
+Supervisor Name: tbd
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20225629
+UserID: SLMEJIA
+Name: MEJIA,SANDRA LUZ
+Primary Eclass: Student Stipend (CC/SD)
+Department: SCHOOL OF MANAGEMENT
+Title: SOM SA1T/HUDSON
+Termination Date: 12/05/2014
+Begin/End: 02/21/2014 - 03/05/2014
+PICT/BCAT/LCAT: SH / SD / NA
+Supervisor: tbd
+Supervisor Name: tbd
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20225753
+UserID: JMNGUYEN
+Name: NGUYEN,JAMIE MINH
+Primary Eclass: Student Hourly (BB/SD)
+Department: PSYCHOLOGY
+Title: PSYCH - TA HEIDENREICH
+Termination Date: 12/05/2014
+Begin/End: 08/21/2013 - 01/20/2014
+PICT/BCAT/LCAT: SH / SD / SF
+Supervisor: heidenreich
+Supervisor Name: HEIDENREICH,SUSAN M
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20225753
+UserID: JMNGUYEN
+Name: NGUYEN,JAMIE MINH
+Primary Eclass: Student Hourly (BB/SD)
+Department: PSYCHOLOGY
+Title: PUBLIC SPEAKING COACH
+Termination Date: 12/05/2014
+Begin/End: 02/07/2013 - 01/17/2014
+PICT/BCAT/LCAT: SH / SD / SF
+Supervisor: crchissell
+Supervisor Name: CHISSELL,CRYSTAL R
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20232517
+UserID: KSHAND
+Name: HAND,KYLE STEVEN
+Primary Eclass: Student Stipend (CC/SD)
+Department: SCHOOL OF MANAGEMENT
+Title: SOM SA 1T/HUDSON
+Termination Date: 12/05/2014
+Begin/End: 03/06/2014 - 03/20/2014
+PICT/BCAT/LCAT: SH / SD / NA
+Supervisor: tbd
+Supervisor Name: tbd
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20238328
+UserID: NJGONZALES
+Name: GONZALES,NEPHTALI J
+Primary Eclass: Work Study Student Off Campus (BN/SD)
+Department: OFF CAMPUS WORK STUDY STUDENTS
+Title: LEGAL AID ASST
+Termination Date: 12/05/2014
+Begin/End: 08/21/2012 - 05/20/2014
+PICT/BCAT/LCAT: SH / SD / SF
+Supervisor: jlonghurst
+Supervisor Name: LONGHURST,JESSICA ANN
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20242477
+UserID: VIDURAN
+Name: DURAN,VICTORIA ISABEL
+Primary Eclass: Student Stipend (CC/SD)
+Department: EDUCATION                         
+Title: SCHOOL OF EDUCATION
+Termination Date: 12/05/2014
+Begin/End: 02/21/2014 - 03/05/2014
+PICT/BCAT/LCAT: SH / SD / NA
+Supervisor: tbd
+Supervisor Name: tbd
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20246682
+UserID: ARWRIGHT
+Name: WRIGHT,APRIL ROSE
+Primary Eclass: Student Hourly (BB/SD)
+Department: BON APPETIT STUDENTS
+Title: MARKET CASHIER
+Termination Date: 12/05/2014
+Begin/End: 08/21/2013 - 10/31/2013
+PICT/BCAT/LCAT: SH / SD / SF
+Supervisor: tbd
+Supervisor Name: tbd
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20248655
+UserID: CEWATTS
+Name: WATTS,CASSIDY ELIZABETH
+Primary Eclass: Student Hourly (BB/SD)
+Department: RHETORIC AND COMPOSITION
+Title: PUBLIC SPEAKING COACH
+Termination Date: 12/05/2014
+Begin/End: 08/21/2013 - 02/21/2014
+PICT/BCAT/LCAT: SH / SD / SF
+Supervisor: crchissell
+Supervisor Name: CHISSELL,CRYSTAL R
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20250909
+UserID: MKYU2
+Name: YU,MINDY KYEONG-MEE
+Primary Eclass: Work Study Student Off Campus (BN/SD)
+Department: LEARNING CENTER
+Title: AMERICA READS TUTOR
+Termination Date: 12/05/2014
+Begin/End: 08/21/2012 - 05/20/2014
+PICT/BCAT/LCAT: SH / SD / SF
+Supervisor: kcharris
+Supervisor Name: HARRIS,KIMBERLY C
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20256223
+UserID: DGRECU
+Name: GRECU,DAVID
+Primary Eclass: Student Work Study (BC/SD)
+Department: ATHLETICS
+Title: PROMOTIONS/GAME DAY
+Termination Date: 12/05/2014
+Begin/End: 08/21/2012 - 05/20/2014
+PICT/BCAT/LCAT: SH / SD / SF
+Supervisor: jfyoung
+Supervisor Name: YOUNG,JAMES F
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20257551
+UserID: PJYAMAZAKI
+Name: YAMAZAKI,PATRICIA JUNKO
+Primary Eclass: Student Work Study (BC/SD)
+Department: ATHLETICS
+Title: EVENT MANAGER - ATHLETICS
+Termination Date: 12/05/2014
+Begin/End: 10/16/2012 - 05/20/2014
+PICT/BCAT/LCAT: SH / SD / SF
+Supervisor: ctbrown
+Supervisor Name: BROWN,CARSON T
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20258457
+UserID: HSGARRISON
+Name: GARRISON,HAILEY SCRIPTURE
+Primary Eclass: Student Hourly (BB/SD)
+Department: SCHOOL OF MANAGEMENT
+Title: SOM TA/SHAIKH
+Termination Date: 12/05/2014
+Begin/End: 08/21/2013 - 01/21/2014
+PICT/BCAT/LCAT: SH / SD / SF
+Supervisor: tbd
+Supervisor Name: tbd
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20259323
+UserID: AALAM2
+Name: LAM,ANGELINA AN
+Primary Eclass: Student Stipend (CC/SD)
+Department: SCHOOL OF MANAGEMENT
+Title: SOM STUDENT STIPEND/PSIP
+Termination Date: 12/05/2014
+Begin/End: 04/21/2013 - 05/05/2013
+PICT/BCAT/LCAT: SH / SD / NA
+Supervisor: tbd
+Supervisor Name: tbd
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20259323
+UserID: AALAM2
+Name: LAM,ANGELINA AN
+Primary Eclass: Student Stipend (CC/SD)
+Department: SCHOOL OF MANAGEMENT
+Title: SOM SA1T/HUDSON
+Termination Date: 12/05/2014
+Begin/End: 02/21/2014 - 03/05/2014
+PICT/BCAT/LCAT: SH / SD / NA
+Supervisor: tbd
+Supervisor Name: tbd
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20260262
+UserID: SPGARCIA
+Name: GARCIA,SARA POLONIA
+Primary Eclass: Work Study Student Off Campus (BN/SD)
+Department: LEARNING CENTER
+Title: BON APPETIT
+Termination Date: 12/05/2014
+Begin/End: 08/21/2012 - 02/19/2013
+PICT/BCAT/LCAT: SH / SD / SF
+Supervisor: tbd
+Supervisor Name: tbd
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20260262
+UserID: SPGARCIA
+Name: GARCIA,SARA POLONIA
+Primary Eclass: Work Study Student Off Campus (BN/SD)
+Department: LEARNING CENTER
+Title: AMERICA READS TUTOR
+Termination Date: 12/05/2014
+Begin/End: 02/06/2013 - 03/03/2014
+PICT/BCAT/LCAT: SH / SD / SF
+Supervisor: kcharris
+Supervisor Name: HARRIS,KIMBERLY C
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20263194
+UserID: JIBALLINASRANGEL
+Name: BALLINAS RANGEL,JUAN IGNACIO
+Primary Eclass: Student Work Study (BC/SD)
+Department: ATHLETICS
+Title: MARKET CASHIER
+Termination Date: 12/05/2014
+Begin/End: 08/21/2013 - 10/31/2013
+PICT/BCAT/LCAT: SH / SD / SF
+Supervisor: tbd
+Supervisor Name: tbd
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20263194
+UserID: JIBALLINASRANGEL
+Name: BALLINAS RANGEL,JUAN IGNACIO
+Primary Eclass: Student Work Study (BC/SD)
+Department: ATHLETICS
+Title: ATHLETICS MARKETING GAME DAY
+Termination Date: 12/05/2014
+Begin/End: 11/06/2013 - 05/20/2014
+PICT/BCAT/LCAT: SH / SD / SF
+Supervisor: jfyoung
+Supervisor Name: YOUNG,JAMES F
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20281870
+UserID: SNAIDU
+Name: NAIDU,SWASTIKA
+Primary Eclass: Student Hourly (BB/SD)
+Department: SCHOOL OF MANAGEMENT
+Title: SOM TA/TAKAHASHI
+Termination Date: 12/05/2014
+Begin/End: 08/21/2013 - 09/05/2013
+PICT/BCAT/LCAT: SH / SD / SF
+Supervisor: tbd
+Supervisor Name: tbd
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20281870
+UserID: SNAIDU
+Name: NAIDU,SWASTIKA
+Primary Eclass: Student Hourly (BB/SD)
+Department: SCHOOL OF MANAGEMENT
+Title: SOM TA/TAKAHASHI
+Termination Date: 12/05/2014
+Begin/End: 08/21/2013 - 01/21/2014
+PICT/BCAT/LCAT: SH / SD / SF
+Supervisor: tbd
+Supervisor Name: tbd
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20281870
+UserID: SNAIDU
+Name: NAIDU,SWASTIKA
+Primary Eclass: Student Hourly (BB/SD)
+Department: SCHOOL OF MANAGEMENT
+Title: SOM TA/TAKAHASHI
+Termination Date: 12/05/2014
+Begin/End: 08/21/2013 - 08/21/2013
+PICT/BCAT/LCAT: SH / SD / SF
+Supervisor: tbd
+Supervisor Name: tbd
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20283336
+UserID: NCUNPINGCO
+Name: UNPINGCO,NICOLE THERESE CRUZ
+Primary Eclass: Work Study Student Off Campus (BN/SD)
+Department: AES STUDENTS
+Title: AMERICA READS TUTOR
+Termination Date: 12/05/2014
+Begin/End: 09/06/2013 - 05/20/2014
+PICT/BCAT/LCAT: SH / SD / SF
+Supervisor: kcharris
+Supervisor Name: HARRIS,KIMBERLY C
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20283336
+UserID: NCUNPINGCO
+Name: UNPINGCO,NICOLE THERESE CRUZ
+Primary Eclass: Work Study Student Off Campus (BN/SD)
+Department: AES STUDENTS
+Title: SDS - NOTETAKER
+Termination Date: 12/05/2014
+Begin/End: 12/06/2013 - 12/20/2013
+PICT/BCAT/LCAT: SH / SD / SF
+Supervisor: cbarber2
+Supervisor Name: BARBER,COREY
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20283606
+UserID: KMAHAU
+Name: AHAU,KATOA M T K
+Primary Eclass: Student Hourly (BB/SD)
+Department: FACILITIES
+Title: NEIGHBORHOOD CLEAN UP
+Termination Date: 12/05/2014
+Begin/End: 09/09/2013 - 04/07/2014
+PICT/BCAT/LCAT: SH / SD / SF
+Supervisor: murphyj
+Supervisor Name: MURPHY,JOSEPH EDMOND
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20283748
+UserID: MDFRANCO2
+Name: FRANCO,MELANIE PHOEBE DIONISIO
+Primary Eclass: Student Work Study (BC/SD)
+Department: NURSING AND HEALTH PROFESSIONS
+Title: TA LOOMIS PROJECT
+Termination Date: 12/05/2014
+Begin/End: 12/06/2013 - 05/20/2014
+PICT/BCAT/LCAT: SH / SD / SF
+Supervisor: msmosqueda
+Supervisor Name: MOSQUEDA,MARIA SIMONA
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20291400
+UserID: AMNAKKEN
+Name: NAKKEN,ALYSSA MICHELLE
+Primary Eclass: Student Hourly (BB/SD)
+Department: KORET HEALTH AND RECREATION
+Title: KORET, CHECK IN DESK
+Termination Date: 12/05/2014
+Begin/End: 08/06/2013 - 12/20/2013
+PICT/BCAT/LCAT: SH / SD / SF
+Supervisor: campbellj
+Supervisor Name: MAGRINI,JOANNE MARIE
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20291400
+UserID: AMNAKKEN
+Name: NAKKEN,ALYSSA MICHELLE
+Primary Eclass: Student Hourly (BB/SD)
+Department: KORET HEALTH AND RECREATION
+Title: KORET, EQUIPMENT DESK
+Termination Date: 12/05/2014
+Begin/End: 07/07/2013 - 01/06/2014
+PICT/BCAT/LCAT: SH / SD / SF
+Supervisor: rwazcaratebascherini
+Supervisor Name: AZCARATE-BASCHERINI,ROBERT WAYNE
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20292036
+UserID: EATRAGER
+Name: TRAGER,ETHELYN ALESSANDRA
+Primary Eclass: Student Work Study (BC/SD)
+Department: MODERN AND CLASSICAL LANGUAGES
+Title: MCL EVENTS STUDENT ASSISTANT
+Termination Date: 12/05/2014
+Begin/End: 10/01/2013 - 05/20/2014
+PICT/BCAT/LCAT: SH / SD / SF
+Supervisor: ktanaka2
+Supervisor Name: TANAKA,KRISLYN
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20292224
+UserID: TEHILL
+Name: HILL,TONI ELLEN
+Primary Eclass: Student Hourly (BB/SD)
+Department: UNDERGRADUATE ADMISSION
+Title: UNDERGRADADM OPERATIONS INTERN
+Termination Date: 12/05/2014
+Begin/End: 08/21/2013 - 05/14/2014
+PICT/BCAT/LCAT: SH / SD / SF
+Supervisor: mlean
+Supervisor Name: LEAN,MARCO S
+Student Empy: Yes
+User Id: TEHILL
+,
+,
+CWID: 20296190
+UserID: MNWATARI
+Name: WATARI,MATTHEW NORITSUGU
+Primary Eclass: Student Work Study (BC/SD)
+Department: HEALTH PROMOTION SERVICES
+Title: FRESH AIR MARSHEL
+Termination Date: 12/05/2014
+Begin/End: 10/06/2013 - 03/07/2014
+PICT/BCAT/LCAT: SH / SD / SF
+Supervisor: harb
+Supervisor Name: HARB,KAMAL
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20299457
+UserID: GSINGH5
+Name: SINGH,GAURAV
+Primary Eclass: Work Study Student Off Campus (BN/SD)
+Department: OFF CAMPUS WORK STUDY STUDENTS
+Title: TUTOR - COLLEGE TRACK
+Termination Date: 12/05/2014
+Begin/End: 10/21/2013 - 05/20/2014
+PICT/BCAT/LCAT: SH / SD / SF
+Supervisor: tbd
+Supervisor Name: tbd
+Student Empy: Yes
+User Id:  
+,
+,
+CWID: 20305426
+UserID: SMVOONG
+Name: VOONG,SALLY MAY
+Primary Eclass: Student Stipend (CC/SD)
+Department: EDUCATION                         
+Title: SCHOOL OF EDUCATION
+Termination Date: 12/05/2014
+Begin/End: 04/06/2014 - 04/20/2014
+PICT/BCAT/LCAT: SH / SD / NA
+Supervisor: tbd
+Supervisor Name: tbd
+Student Empy: Yes
+User Id:  
+,
+,
